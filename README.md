@@ -1,5 +1,5 @@
 # TieBaTool
-
+[![HitCount](http://hits.dwyl.com/diaolizhi/TieBaTool.svg)](http://hits.dwyl.com/diaolizhi/TieBaTool)
 - 功能
     + 贴吧批量关注和取关
     + lists.json 包含两千多个贴吧, 可以增加或减少
